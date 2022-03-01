@@ -8,7 +8,7 @@ gem 'bootsnap', '>= 1.4.2', require: false
 gem 'cancancan'
 gem 'devise'
 gem 'dotenv-rails', require: 'dotenv/rails-now'
-gem 'image_processing', '~> 1.2'
+gem 'image_processing', '~> 1.12'
 gem 'jbuilder', '~> 2.7'
 gem 'kaminari'
 gem 'omniauth-google-oauth2'
